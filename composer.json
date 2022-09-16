@@ -1,0 +1,18 @@
+{
+    "name": "shariq/live-video-chat-application",
+    "description": "Live Video Chat Application Using WebRTC, WebSockets, JavaScript with PHP and MySQL",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Shariq\\LiveVideoChatApplication\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shariqmanzur",
+            "email": "shariqmanzur@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
